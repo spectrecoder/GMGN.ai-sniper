@@ -9,7 +9,7 @@
 ## Deliverable:
 •	Screenshot or logs showing the wallet connection and successful Devnet configuration.
 
-### - report1
+### - Report1
 ![Solana Config](https://github.com/spectrecoder/GMGN.ai-sniper/blob/main/img/solana-config.png?raw=true)
 
 	
