@@ -9,7 +9,7 @@
 ## Deliverable:
 •	Screenshot or logs showing the wallet connection and successful Devnet configuration.
 
-### - Report1
+### - Report 1
 ![Solana Config](https://github.com/spectrecoder/GMGN.ai-sniper/blob/main/img/solana-config.png?raw=true)
 
 	
@@ -17,10 +17,10 @@
 •	Research the GMGN.ai API documentation (or use mock data if APIs are not available).
 •	Establish a connection to the GMGN.ai platform to pull token listing data.
 
-Deliverable:
+## Deliverable:
 •	A basic script that connects to GMGN.ai and fetches live or simulated token listing data.
 
-### - Report2: Created Basic script with Mock API
+### - Report 2: Created Basic script with Mock API
 	
 ## 3. Basic Bot Functionality:
 •	Build a simple bot script that continuously monitors the GMGN.ai Devnet for new token listings.
@@ -29,7 +29,7 @@ Deliverable:
 ## Deliverable:
 •	A functional bot script that logs detected listings to the console in real-time.
 
-### - Report3: Used Bot script for pumpfun. Due to the lack of material and dev community of GMGN.
+### - Report 3: Used Bot script for pumpfun. Due to the lack of material and dev community of GMGN.
 
 ## 4.	Testing and Validation:
 •	Run the bot on the Solana Devnet to confirm detection functionality.
@@ -38,7 +38,7 @@ Deliverable:
 ## Deliverable:
 •	Console output logs showing successful detection of token listings.
 
-### - Report4: Solana devnet is down, so test didn't correctly.
+### - Report 4: Solana devnet is down, so test didn't correctly.
 
 ## Success Criteria:
 
@@ -46,9 +46,6 @@ Deliverable:
 •	Functionality: Bot successfully detects and logs token listings from GMGN.ai on Devnet. 
 •	Code Quality: Code is modular, clear, and easy to read. 
 •	Time Management: Task is completed within the allocated day.
-
-- Whole time: Analyze the requirements and design: 1 hr.
-- Implementation and coding: 1 hr
 
 ## Tips for the Candidate:
 
