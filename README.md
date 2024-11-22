@@ -20,7 +20,7 @@
 Deliverable:
 •	A basic script that connects to GMGN.ai and fetches live or simulated token listing data.
 
-### Report2: Basic script with Mock API
+### - Report2: Basic script with Mock API
 	
 ## 3. Basic Bot Functionality:
 •	Build a simple bot script that continuously monitors the GMGN.ai Devnet for new token listings.
@@ -29,7 +29,7 @@ Deliverable:
 ## Deliverable:
 •	A functional bot script that logs detected listings to the console in real-time.
 
-### Report3: Bot script for pumpfun. Due to the lack of material and dev community of GMGN, I used 
+### - Report3: Bot script for pumpfun. Due to the lack of material and dev community of GMGN, I used 
 
 ## 4.	Testing and Validation:
 •	Run the bot on the Solana Devnet to confirm detection functionality.
@@ -38,7 +38,7 @@ Deliverable:
 ## Deliverable:
 •	Console output logs showing successful detection of token listings.
 
-### Report4: Solana devnet is down, so it couldn't test correctly.
+### - Report4: Solana devnet is down, so test didn't correctly.
 
 ## Success Criteria:
 
