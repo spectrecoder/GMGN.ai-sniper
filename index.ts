@@ -51,7 +51,7 @@ function subscribeToTransaction(mint: PublicKey) {
     const publicKey = new PublicKey(mint);
 
     connection.onLogs(publicKey, (log) => {
-        // return;
+        // return new created token info;
         if (log.logs.includes("Program 6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P invoke [1]") && log.logs.includes("Program log: Instruction: Create")) {
             // console.log(log);
             // return;
@@ -70,7 +70,7 @@ async function fetchTransaction(tx: TransactionSignature) {
 
         // const tokenMintInfo = await splToken.getMint(connection, new PublicKey(txdata.transaction.message.instructions[4].parsed?.info?.mint));
 
-        console.log(txdata)
+        console.log(txdata) // we can get new created token info
     })
 }
 
