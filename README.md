@@ -5,7 +5,7 @@
 •	Set up a Solana wallet and fund it with test SOL from the Devnet faucet.
 •	Install dependencies (e.g., Solana-Web3.js, Node.js, etc.).
 
-![alt text](http://github.com/spectrecoder/GMGN.ai-sniper/img/solana-config.png)
+![alt text](https://github.com/spectrecoder/GMGN.ai-sniper/tree/main/img/solana-config.png)
 
 Deliverable:
 •	Screenshot or logs showing the wallet connection and successful Devnet configuration.
